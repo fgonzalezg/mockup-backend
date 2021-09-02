@@ -1,2 +1,2 @@
 # mockup-backend
-Simple backend application
+Simple backend service
